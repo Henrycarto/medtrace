@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+traceability.md
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+*.zip
+build/
+dist/
