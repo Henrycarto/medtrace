@@ -5,9 +5,6 @@ __pycache__/
 .pytest_cache/
 .ruff_cache/
 traceability.md
-.claude/
-CLAUDE.md
-CLAUDE.local.md
 *.zip
 build/
 dist/
